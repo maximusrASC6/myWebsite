@@ -1,0 +1,60 @@
+body{ 
+    background-image: url(https://images.hdqwalls.com/wallpapers/bthumb/god-of-war-4-new-omega-img.jpg);
+    text-align: center
+    
+}
+
+h1 {
+    color: azure;
+}
+
+h2 {
+    color: aquamarine;
+}
+
+h3 {
+    color: azure;
+}
+
+div {
+    border: solid 0px
+    ;
+    background-color:();
+    margin: auto;
+}
+
+#second {
+    background-image: url(https://images4.alphacoders.com/289/thumb-350-2898.jpg);
+    border: solid 9px black
+    ;
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-color: aliceblue;
+}
+
+#first {
+    border: solid 9px black
+    ;
+    width: 500px;
+    height: 200px;
+    float: right;
+    background-color: silver;
+    margin: 20px;
+    text-align: left;
+}
+
+span {
+    text-transform: none;
+    color: whitesmoke;
+    font-size:55px;
+    text-align: left;
+
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+
